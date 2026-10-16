@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JOY DJ Remix</string>
+    <style name="Theme.JoyDj" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0d1117</item>
+    </style>
+</resources>
